@@ -6,7 +6,7 @@ The concept in one line is
 Do read the Manual
 
 Old changelogs
-(since first outside test)
+(since recorded)
 
 **12.04.2020**
 
